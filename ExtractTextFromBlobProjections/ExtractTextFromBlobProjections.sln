@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractTextFromBlobProjections", "ExtractTextFromBlobProjections\ExtractTextFromBlobProjections.csproj", "{6929E185-8CBB-4DFD-B07E-FFF95E1372AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6929E185-8CBB-4DFD-B07E-FFF95E1372AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6929E185-8CBB-4DFD-B07E-FFF95E1372AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6929E185-8CBB-4DFD-B07E-FFF95E1372AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6929E185-8CBB-4DFD-B07E-FFF95E1372AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2816765E-7767-4343-8C44-8057B925B295}
+	EndGlobalSection
+EndGlobal
