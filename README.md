@@ -1,1 +1,1 @@
-# Azure-Cognitive-Search-Blob-Text-Extractor
+# Azure Cognitive Search Blob Text Extractor
